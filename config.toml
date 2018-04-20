@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "http://tylerkelly.net/"
 themesDir = "themes"
 languageCode = "en"
 title = "Tyler Kelly"
