@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tyler Kelly</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Tyler Kelly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Apr 2018 15:15:44 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://example.com/posts/first-post/</link>
+      <pubDate>Fri, 20 Apr 2018 15:15:44 -0700</pubDate>
+      
+      <guid>https://example.com/posts/first-post/</guid>
+      <description>This is my first post and I hope to have more content in the near future.
+Thanks for stopping by!</description>
+    </item>
+    
+  </channel>
+</rss>
